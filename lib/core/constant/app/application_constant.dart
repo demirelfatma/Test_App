@@ -1,0 +1,1 @@
+//? burada google cloud bağlantısı kurulacaktı artık firebase bağlantısına uygun olarak bu sayfa silinecek veya ayarlanacak.

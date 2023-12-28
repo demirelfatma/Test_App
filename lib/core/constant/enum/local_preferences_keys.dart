@@ -1,0 +1,1 @@
+enum LocalKeysPreferencesKeys { gravity,dark,notification }
